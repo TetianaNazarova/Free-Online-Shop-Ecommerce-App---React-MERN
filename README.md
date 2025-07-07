@@ -67,7 +67,7 @@ Let’s build something amazing together.
 💬 Let's Connect
 📧 Email: tetiananazarovag@gmail.com
 
-💼 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/tetiana-nazarova-24b951235/)
+💼 LinkedIn: [linkedin.com/in/tetiana-nazarova-24b951235/](https://www.linkedin.com/in/tetiana-nazarova-24b951235/)
 
 <!---🌐 Portfolio: yourwebsite.com-->
 
