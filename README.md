@@ -19,9 +19,10 @@ A fast, modern, and customizable **E-commerce application** built with **React**
 - 🧮 Smart Cart System with Real-Time Price Calculations
 - 📦 Responsive Design – Fully mobile-friendly
 - 🌍 Built for real-world use cases, easily extendable
-
+- 🎨 All UI is fully responsive and built with usability in mind.
 ---
 
+<!---
 ## 🖼️ Screenshots
 
 ![Home Page](./screenshots/home.png)  
@@ -29,10 +30,8 @@ A fast, modern, and customizable **E-commerce application** built with **React**
 ![Admin Dashboard](./screenshots/admin.png)  
 ![Checkout Flow](./screenshots/checkout.png)
 
-> All UI is fully responsive and built with usability in mind.
-
 ---
-
+-->
 ## ⚙️ Tech Stack
 
 | Frontend        | Backend            | Tools & Libraries               |
@@ -55,10 +54,10 @@ Real-world checkout logic and payment flow
 
 Modular and scalable folder structure
 
-🌐 Live Demo (optional)
+<!---🌐 Live Demo (optional)
 If deployed:
 🔗 Visit Live App
-
+-->
 👨‍💻 About the Developer
 Hi, I'm a seasoned Fullstack Developer with 6+ years of front-end experience (Vue, Angular, React) and a deep passion for building scalable, real-world web apps using React, Node.js, MongoDB, and modern JS tools.
 
@@ -70,7 +69,7 @@ Let’s build something amazing together.
 
 💼 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/tetiana-nazarova-24b951235/)
 
-🌐 Portfolio: yourwebsite.com
+<!---🌐 Portfolio: yourwebsite.com-->
 
 🤝 Hire Me / Use This App
 Looking for a modern e-commerce solution? This app is production-ready with Stripe, secure login, and full shopping flow.
