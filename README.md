@@ -59,7 +59,7 @@ If deployed:
 🔗 Visit Live App
 -->
 👨‍💻 About the Developer
-Hi, I'm a seasoned Fullstack Developer with 6+ years of front-end experience (Vue, Angular, React) and a deep passion for building scalable, real-world web apps using React, Node.js, MongoDB, and modern JS tools.
+Hi, I'm a seasoned Fullstack Developer with 6+ years of front-end experience (Vue, Angular, React, JavaScript) and a deep passion for building scalable, real-world web apps using React, Node.js, MongoDB, and modern JS tools.
 
 📫 Currently open to freelance and full-time React/MERN opportunities!
 Let’s build something amazing together.
